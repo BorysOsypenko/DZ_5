@@ -1,0 +1,39 @@
+.wrapper{
+	width: 560px;
+	height: 447px;
+	background-color: #80cdc6;
+	position: absolute;	
+	overflow:hidden;
+		
+}
+.clouds{
+	width: 350px; 
+	height: 110px;	
+	position: absolute;
+	right: 0px;
+	top: -7px;
+}
+.water{
+	width: 560px; 
+	height: 55px;	
+	position: absolute;
+	top: 396px;
+    left: 0px;
+    z-index: 2;
+}
+.wooden_ship{
+	width: 110px; 
+	height: 120px;
+	position: absolute;	
+	top: 292px;
+    left: 20px;
+    z-index: 1;
+}
+.world{
+	width: 560px; 
+	height: 330px;	
+	position: absolute;
+    bottom: 10px;
+    left: 0px;
+}
+
